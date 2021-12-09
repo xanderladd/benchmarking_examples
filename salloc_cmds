@@ -1,4 +1,1 @@
-salloc -C gpu -N 1 -t 120 --gres=gpu:1 -c 1 -A m3513
-
-
-salloc -C gpu -N 1 -t 120 --gres=gpu:8 -c 1 -A m3513 --ntasks-per-node 8
+salloc -C gpu -N 1 -t 120 --gres=gpu:8 -c 10 -A #### --ntasks-per-node 8
