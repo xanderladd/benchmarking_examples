@@ -6,10 +6,15 @@ offspring_size=$1
 trials=$2
 proccesses=$3 # neuroGPU.exe will find out # of GPUs and use them
 
-echo $1 $2 $3 PROCES
+echo "${1} population ${2} trials  ${3} # of nodes (should be 1)"
 : '
 NOTE: Here is my command to launch core neuron, I was running into issues with paths, so I use this convoluted command
 you should put your own in here. youll want to keep the -- core_neuron_example.py --offspring_size $offspring_size --trials $trials -- part
+
+
+
+
+YOUR CODE GOES HERE (below)
 '
 
 cd neuroGPU

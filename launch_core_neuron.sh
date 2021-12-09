@@ -10,7 +10,13 @@ proccesses=$(( $3 * 8 )) # salloc 8 processes per node -- 1 for every gpu. Then 
 : '
 NOTE: Here is my command to launch core neuron, I was running into issues with paths, so I use this convoluted command
 you should put your own in here. youll want to keep the -- core_neuron_example.py --offspring_size $offspring_size --trials $trials -- part
+
+
+
+
+YOUR CODE GOES HERE (below)
 '
+
 
 cd core_neuron
 
