@@ -1,0 +1,21 @@
+INFO:root:************ launched PIDS at 1637568108.8800368 ************
+INFO:root:process 29015 is AP2_AP1_peak_diff and started at 1637568108.8837888
+INFO:root:process 29016 is voltage_after_stim and started at 1637568108.8840666
+INFO:root:process 29017 is burst_number and started at 1637568108.887715
+INFO:root:process 29018 is fast_AHP_change and started at 1637568108.888014
+INFO:root:process 29019 is time_to_first_spike and started at 1637568108.891695
+INFO:root:process 29020 is peak_voltage and started at 1637568108.8944333
+INFO:root:process 29021 is spike_half_width and started at 1637568108.8946412
+INFO:root:process 29022 is peak_voltage and started at 1637568108.898171
+INFO:root:process 29023 is isi and started at 1637568108.8984454
+INFO:root:process 29024 is fast_AHP and started at 1637568108.9040906
+INFO:root:process 29025 is time_to_first_spike and started at 1637568108.9075983
+INFO:root:process 29026 is depolarized_base and started at 1637568108.9111493
+INFO:root:process 29027 is APlast_amp and started at 1637568108.91619
+INFO:root:process 29018 is AP_duration and started at 1637568108.9199479
+INFO:root:process 29018 is AHP_depth_abs_slow and started at 1637568108.921945
+INFO:root:process 29018 is AP_width and started at 1637568108.9237194
+INFO:root:process 29018 is traj_score_2 and started at 1637568108.9255064
+INFO:root:process 29021 is peak_indices and started at 1637568108.9348083
+INFO:root:process 29033 is AP_rise_rate_change and started at 1637568108.9376276
+INFO:root:process 29034 is AP1_width and started at 1637568108.941313

@@ -1,0 +1,4 @@
+samples=15,15
+offspring=100,500
+N=1,1
+method=core_neuron

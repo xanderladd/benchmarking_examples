@@ -1,0 +1,270 @@
+INFO:root:************ launched 80 PIDS at 1638913939.5044594 ************
+INFO:root:************ finished 80 PIDS at 1638913951.4678507 ************
+INFO:__main__:average simulation (neuroGPU) runtime: 7.189900368452072
+INFO:__main__:simulation (neuroGPU) runtimes: [6.79351854 6.7932446  6.82222772 7.21713209 7.27731609 7.44741368
+ 7.53451777 7.63383245]
+INFO:__main__:evaluation took: [12.026250123977661]
+INFO:__main__:everything took: 19.866230964660645
+INFO:__main__:gen size : 500
+INFO:__main__:evaluation times: [12.026250123977661]
+INFO:__main__:simulation times: [6.79351854 6.7932446  6.82222772 7.21713209 7.27731609 7.44741368
+ 7.53451777 7.63383245]
+INFO:__main__:simulation ends: [1.63891394e+09 1.63891394e+09 1.63891394e+09 1.63891394e+09
+ 1.63891394e+09 1.63891394e+09 1.63891394e+09 1.63891394e+09]
+INFO:__main__:simulation starts: [1.63891393e+09 1.63891393e+09 1.63891393e+09 1.63891393e+09
+ 1.63891393e+09 1.63891393e+09 1.63891393e+09 1.63891393e+09]
+INFO:__main__:whole gen took: 27.58296513557434
+INFO:__main__:lap time: 1638913959.190416
+INFO:__main__:completed trial : 0
+INFO:root:************ launched 80 PIDS at 1638913966.4746928 ************
+INFO:root:************ finished 80 PIDS at 1638913983.1375325 ************
+INFO:__main__:average simulation (neuroGPU) runtime: 6.622171103954315
+INFO:__main__:simulation (neuroGPU) runtimes: [6.17835999 6.4084115  6.49243093 6.56673694 6.67031384 6.80114818
+ 6.88227034 6.97769713]
+INFO:__main__:evaluation took: [16.72458267211914]
+INFO:__main__:everything took: 23.951913833618164
+INFO:__main__:gen size : 500
+INFO:__main__:evaluation times: [16.72458267211914]
+INFO:__main__:simulation times: [6.17835999 6.4084115  6.49243093 6.56673694 6.67031384 6.80114818
+ 6.88227034 6.97769713]
+INFO:__main__:simulation ends: [1.63891397e+09 1.63891397e+09 1.63891397e+09 1.63891397e+09
+ 1.63891397e+09 1.63891397e+09 1.63891397e+09 1.63891397e+09]
+INFO:__main__:simulation starts: [1.63891396e+09 1.63891396e+09 1.63891396e+09 1.63891396e+09
+ 1.63891396e+09 1.63891396e+09 1.63891396e+09 1.63891396e+09]
+INFO:__main__:whole gen took: 23.95489239692688
+INFO:__main__:lap time: 1638913983.1455982
+INFO:__main__:completed trial : 1
+INFO:root:************ launched 80 PIDS at 1638913990.4692376 ************
+INFO:root:************ finished 80 PIDS at 1638914002.1186445 ************
+INFO:__main__:average simulation (neuroGPU) runtime: 6.623292237520218
+INFO:__main__:simulation (neuroGPU) runtimes: [6.04534769 6.40192223 6.42664552 6.48118114 6.79159665 6.8611176
+ 6.94219303 7.03633404]
+INFO:__main__:evaluation took: [11.710965156555176]
+INFO:__main__:everything took: 18.978111267089844
+INFO:__main__:gen size : 500
+INFO:__main__:evaluation times: [11.710965156555176]
+INFO:__main__:simulation times: [6.04534769 6.40192223 6.42664552 6.48118114 6.79159665 6.8611176
+ 6.94219303 7.03633404]
+INFO:__main__:simulation ends: [1.63891399e+09 1.63891399e+09 1.63891399e+09 1.63891399e+09
+ 1.63891399e+09 1.63891399e+09 1.63891399e+09 1.63891399e+09]
+INFO:__main__:simulation starts: [1.63891398e+09 1.63891398e+09 1.63891398e+09 1.63891398e+09
+ 1.63891398e+09 1.63891398e+09 1.63891398e+09 1.63891398e+09]
+INFO:__main__:whole gen took: 24.568254470825195
+INFO:__main__:lap time: 1638914007.7141235
+INFO:__main__:completed trial : 2
+INFO:root:************ launched 80 PIDS at 1638914016.9921985 ************
+INFO:root:************ finished 80 PIDS at 1638914027.7377615 ************
+INFO:__main__:average simulation (neuroGPU) runtime: 8.511113166809082
+INFO:__main__:simulation (neuroGPU) runtimes: [6.96517611 8.57678032 8.59736037 8.63773799 8.69280553 8.76203609
+ 8.8802917  8.97671723]
+INFO:__main__:evaluation took: [10.807320594787598]
+INFO:__main__:everything took: 20.028940439224243
+INFO:__main__:gen size : 500
+INFO:__main__:evaluation times: [10.807320594787598]
+INFO:__main__:simulation times: [6.96517611 8.57678032 8.59736037 8.63773799 8.69280553 8.76203609
+ 8.8802917  8.97671723]
+INFO:__main__:simulation ends: [1.63891401e+09 1.63891402e+09 1.63891402e+09 1.63891402e+09
+ 1.63891402e+09 1.63891402e+09 1.63891402e+09 1.63891402e+09]
+INFO:__main__:simulation starts: [1.63891401e+09 1.63891401e+09 1.63891401e+09 1.63891401e+09
+ 1.63891401e+09 1.63891401e+09 1.63891401e+09 1.63891401e+09]
+INFO:__main__:whole gen took: 32.94560790061951
+INFO:__main__:lap time: 1638914040.6600125
+INFO:__main__:completed trial : 3
+INFO:root:************ launched 80 PIDS at 1638914047.9730005 ************
+INFO:root:************ finished 80 PIDS at 1638914064.3252015 ************
+INFO:__main__:average simulation (neuroGPU) runtime: 6.634407490491867
+INFO:__main__:simulation (neuroGPU) runtimes: [6.0753274  6.4522779  6.47616315 6.51652884 6.77512026 6.84164047
+ 6.92097998 7.01722193]
+INFO:__main__:evaluation took: [16.409695386886597]
+INFO:__main__:everything took: 23.666359663009644
+INFO:__main__:gen size : 500
+INFO:__main__:evaluation times: [16.409695386886597]
+INFO:__main__:simulation times: [6.0753274  6.4522779  6.47616315 6.51652884 6.77512026 6.84164047
+ 6.92097998 7.01722193]
+INFO:__main__:simulation ends: [1.63891405e+09 1.63891405e+09 1.63891405e+09 1.63891405e+09
+ 1.63891405e+09 1.63891405e+09 1.63891405e+09 1.63891405e+09]
+INFO:__main__:simulation starts: [1.63891404e+09 1.63891404e+09 1.63891404e+09 1.63891404e+09
+ 1.63891404e+09 1.63891404e+09 1.63891404e+09 1.63891404e+09]
+INFO:__main__:whole gen took: 23.669204473495483
+INFO:__main__:lap time: 1638914064.3294997
+INFO:__main__:completed trial : 4
+INFO:root:************ launched 80 PIDS at 1638914071.7133906 ************
+INFO:root:************ finished 80 PIDS at 1638914089.173882 ************
+INFO:__main__:average simulation (neuroGPU) runtime: 6.665019750595093
+INFO:__main__:simulation (neuroGPU) runtimes: [6.14841008 6.4577539  6.48227859 6.52368546 6.80115962 6.86990905
+ 6.94767475 7.08928657]
+INFO:__main__:evaluation took: [17.517690181732178]
+INFO:__main__:everything took: 24.845671892166138
+INFO:__main__:gen size : 500
+INFO:__main__:evaluation times: [17.517690181732178]
+INFO:__main__:simulation times: [6.14841008 6.4577539  6.48227859 6.52368546 6.80115962 6.86990905
+ 6.94767475 7.08928657]
+INFO:__main__:simulation ends: [1.63891407e+09 1.63891407e+09 1.63891407e+09 1.63891407e+09
+ 1.63891407e+09 1.63891407e+09 1.63891407e+09 1.63891407e+09]
+INFO:__main__:simulation starts: [1.63891406e+09 1.63891406e+09 1.63891406e+09 1.63891406e+09
+ 1.63891406e+09 1.63891406e+09 1.63891406e+09 1.63891406e+09]
+INFO:__main__:whole gen took: 24.848501682281494
+INFO:__main__:lap time: 1638914089.1782649
+INFO:__main__:completed trial : 5
+INFO:root:************ launched 80 PIDS at 1638914096.39025 ************
+INFO:root:************ finished 80 PIDS at 1638914108.938162 ************
+INFO:__main__:average simulation (neuroGPU) runtime: 6.542275160551071
+INFO:__main__:simulation (neuroGPU) runtimes: [6.03545499 6.34891605 6.37452841 6.41623545 6.67564726 6.74606872
+ 6.82499576 6.91635466]
+INFO:__main__:evaluation took: [12.610647678375244]
+INFO:__main__:everything took: 19.765976905822754
+INFO:__main__:gen size : 500
+INFO:__main__:evaluation times: [12.610647678375244]
+INFO:__main__:simulation times: [6.03545499 6.34891605 6.37452841 6.41623545 6.67564726 6.74606872
+ 6.82499576 6.91635466]
+INFO:__main__:simulation ends: [1.6389141e+09 1.6389141e+09 1.6389141e+09 1.6389141e+09 1.6389141e+09
+ 1.6389141e+09 1.6389141e+09 1.6389141e+09]
+INFO:__main__:simulation starts: [1.63891409e+09 1.63891409e+09 1.63891409e+09 1.63891409e+09
+ 1.63891409e+09 1.63891409e+09 1.63891409e+09 1.63891409e+09]
+INFO:__main__:whole gen took: 27.464771270751953
+INFO:__main__:lap time: 1638914116.6432955
+INFO:__main__:completed trial : 6
+INFO:root:************ launched 80 PIDS at 1638914125.4466245 ************
+INFO:root:************ finished 80 PIDS at 1638914142.016007 ************
+INFO:__main__:average simulation (neuroGPU) runtime: 7.420745015144348
+INFO:__main__:simulation (neuroGPU) runtimes: [6.20688605 6.32023001 6.69292164 6.73102522 8.23885965 8.31056476
+ 8.3871851  8.4782877 ]
+INFO:__main__:evaluation took: [16.627431392669678]
+INFO:__main__:everything took: 25.373874187469482
+INFO:__main__:gen size : 500
+INFO:__main__:evaluation times: [16.627431392669678]
+INFO:__main__:simulation times: [6.20688605 6.32023001 6.69292164 6.73102522 8.23885965 8.31056476
+ 8.3871851  8.4782877 ]
+INFO:__main__:simulation ends: [1.63891412e+09 1.63891412e+09 1.63891412e+09 1.63891412e+09
+ 1.63891412e+09 1.63891413e+09 1.63891413e+09 1.63891413e+09]
+INFO:__main__:simulation starts: [1.63891412e+09 1.63891412e+09 1.63891412e+09 1.63891412e+09
+ 1.63891412e+09 1.63891412e+09 1.63891412e+09 1.63891412e+09]
+INFO:__main__:whole gen took: 28.978453159332275
+INFO:__main__:lap time: 1638914145.622057
+INFO:__main__:completed trial : 7
+INFO:root:************ launched 80 PIDS at 1638914152.8367646 ************
+INFO:root:************ finished 80 PIDS at 1638914169.705311 ************
+INFO:__main__:average simulation (neuroGPU) runtime: 6.46169912815094
+INFO:__main__:simulation (neuroGPU) runtimes: [5.94492435 6.12636876 6.14959836 6.3266468  6.67250967 6.74056864
+ 6.81995392 6.91302252]
+INFO:__main__:evaluation took: [16.929903507232666]
+INFO:__main__:everything took: 24.088629484176636
+INFO:__main__:gen size : 500
+INFO:__main__:evaluation times: [16.929903507232666]
+INFO:__main__:simulation times: [5.94492435 6.12636876 6.14959836 6.3266468  6.67250967 6.74056864
+ 6.81995392 6.91302252]
+INFO:__main__:simulation ends: [1.63891415e+09 1.63891415e+09 1.63891415e+09 1.63891415e+09
+ 1.63891415e+09 1.63891415e+09 1.63891415e+09 1.63891415e+09]
+INFO:__main__:simulation starts: [1.63891415e+09 1.63891415e+09 1.63891415e+09 1.63891415e+09
+ 1.63891415e+09 1.63891415e+09 1.63891415e+09 1.63891415e+09]
+INFO:__main__:whole gen took: 24.77378225326538
+INFO:__main__:lap time: 1638914170.39612
+INFO:__main__:completed trial : 8
+INFO:root:************ launched 80 PIDS at 1638914177.8065736 ************
+INFO:root:************ finished 80 PIDS at 1638914193.7673056 ************
+INFO:__main__:average simulation (neuroGPU) runtime: 6.688467353582382
+INFO:__main__:simulation (neuroGPU) runtimes: [6.03886414 6.41175628 6.60531974 6.65910077 6.71625662 6.9384079
+ 7.02158308 7.11645031]
+INFO:__main__:evaluation took: [16.02176332473755]
+INFO:__main__:everything took: 23.376012563705444
+INFO:__main__:gen size : 500
+INFO:__main__:evaluation times: [16.02176332473755]
+INFO:__main__:simulation times: [6.03886414 6.41175628 6.60531974 6.65910077 6.71625662 6.9384079
+ 7.02158308 7.11645031]
+INFO:__main__:simulation ends: [1.63891418e+09 1.63891418e+09 1.63891418e+09 1.63891418e+09
+ 1.63891418e+09 1.63891418e+09 1.63891418e+09 1.63891418e+09]
+INFO:__main__:simulation starts: [1.63891417e+09 1.63891417e+09 1.63891417e+09 1.63891417e+09
+ 1.63891417e+09 1.63891417e+09 1.63891417e+09 1.63891417e+09]
+INFO:__main__:whole gen took: 28.57348370552063
+INFO:__main__:lap time: 1638914198.9698892
+INFO:__main__:completed trial : 9
+INFO:root:************ launched 80 PIDS at 1638914208.6626153 ************
+INFO:root:************ finished 80 PIDS at 1638914225.2326167 ************
+INFO:__main__:average simulation (neuroGPU) runtime: 7.110354095697403
+INFO:__main__:simulation (neuroGPU) runtimes: [8.00935745 7.87030125 7.89137793 8.10082507 5.94007254 6.27990031
+ 6.35183287 6.43916535]
+INFO:__main__:evaluation took: [16.630900859832764]
+INFO:__main__:everything took: 26.26729965209961
+INFO:__main__:gen size : 500
+INFO:__main__:evaluation times: [16.630900859832764]
+INFO:__main__:simulation times: [8.00935745 7.87030125 7.89137793 8.10082507 5.94007254 6.27990031
+ 6.35183287 6.43916535]
+INFO:__main__:simulation ends: [1.63891421e+09 1.63891421e+09 1.63891421e+09 1.63891421e+09
+ 1.63891421e+09 1.63891421e+09 1.63891421e+09 1.63891421e+09]
+INFO:__main__:simulation starts: [1.6389142e+09 1.6389142e+09 1.6389142e+09 1.6389142e+09 1.6389142e+09
+ 1.6389142e+09 1.6389142e+09 1.6389142e+09]
+INFO:__main__:whole gen took: 26.270137071609497
+INFO:__main__:lap time: 1638914225.2403095
+INFO:__main__:completed trial : 10
+INFO:root:************ launched 80 PIDS at 1638914232.5289798 ************
+INFO:root:************ finished 80 PIDS at 1638914245.2804987 ************
+INFO:__main__:average simulation (neuroGPU) runtime: 6.5840325355529785
+INFO:__main__:simulation (neuroGPU) runtimes: [6.02718019 6.33174276 6.35685492 6.47070789 6.75773931 6.82657695
+ 6.90318656 6.9982717 ]
+INFO:__main__:evaluation took: [12.81251311302185]
+INFO:__main__:everything took: 20.045050144195557
+INFO:__main__:gen size : 500
+INFO:__main__:evaluation times: [12.81251311302185]
+INFO:__main__:simulation times: [6.02718019 6.33174276 6.35685492 6.47070789 6.75773931 6.82657695
+ 6.90318656 6.9982717 ]
+INFO:__main__:simulation ends: [1.63891423e+09 1.63891423e+09 1.63891423e+09 1.63891423e+09
+ 1.63891423e+09 1.63891423e+09 1.63891423e+09 1.63891423e+09]
+INFO:__main__:simulation starts: [1.63891423e+09 1.63891423e+09 1.63891423e+09 1.63891423e+09
+ 1.63891423e+09 1.63891423e+09 1.63891423e+09 1.63891423e+09]
+INFO:__main__:whole gen took: 28.261767864227295
+INFO:__main__:lap time: 1638914253.502353
+INFO:__main__:completed trial : 11
+INFO:root:************ launched 80 PIDS at 1638914260.7986238 ************
+INFO:root:************ finished 80 PIDS at 1638914273.24734 ************
+INFO:__main__:average simulation (neuroGPU) runtime: 6.537346631288528
+INFO:__main__:simulation (neuroGPU) runtimes: [5.88981056 6.25220013 6.28181887 6.41971588 6.75093937 6.81676507
+ 6.89672422 6.99079895]
+INFO:__main__:evaluation took: [12.506734371185303]
+INFO:__main__:everything took: 19.746185064315796
+INFO:__main__:gen size : 500
+INFO:__main__:evaluation times: [12.506734371185303]
+INFO:__main__:simulation times: [5.88981056 6.25220013 6.28181887 6.41971588 6.75093937 6.81676507
+ 6.89672422 6.99079895]
+INFO:__main__:simulation ends: [1.63891426e+09 1.63891426e+09 1.63891426e+09 1.63891426e+09
+ 1.63891426e+09 1.63891426e+09 1.63891426e+09 1.63891426e+09]
+INFO:__main__:simulation starts: [1.63891425e+09 1.63891425e+09 1.63891425e+09 1.63891425e+09
+ 1.63891425e+09 1.63891425e+09 1.63891425e+09 1.63891425e+09]
+INFO:__main__:whole gen took: 22.360872507095337
+INFO:__main__:lap time: 1638914275.8635128
+INFO:__main__:completed trial : 12
+INFO:root:************ launched 80 PIDS at 1638914284.9715586 ************
+INFO:root:************ finished 80 PIDS at 1638914301.4389281 ************
+INFO:__main__:average simulation (neuroGPU) runtime: 6.787694036960602
+INFO:__main__:simulation (neuroGPU) runtimes: [7.0029943  6.99433184 7.59151816 6.3434279  6.5040791  6.55527806
+ 6.62467694 6.68524599]
+INFO:__main__:evaluation took: [16.52826237678528]
+INFO:__main__:everything took: 25.58023977279663
+INFO:__main__:gen size : 500
+INFO:__main__:evaluation times: [16.52826237678528]
+INFO:__main__:simulation times: [7.0029943  6.99433184 7.59151816 6.3434279  6.5040791  6.55527806
+ 6.62467694 6.68524599]
+INFO:__main__:simulation ends: [1.63891428e+09 1.63891428e+09 1.63891428e+09 1.63891428e+09
+ 1.63891428e+09 1.63891428e+09 1.63891428e+09 1.63891428e+09]
+INFO:__main__:simulation starts: [1.63891428e+09 1.63891428e+09 1.63891428e+09 1.63891428e+09
+ 1.63891428e+09 1.63891428e+09 1.63891428e+09 1.63891428e+09]
+INFO:__main__:whole gen took: 29.17410182952881
+INFO:__main__:lap time: 1638914305.0379074
+INFO:__main__:completed trial : 13
+INFO:root:************ launched 80 PIDS at 1638914315.8298438 ************
+INFO:root:************ finished 80 PIDS at 1638914331.789355 ************
+INFO:__main__:average simulation (neuroGPU) runtime: 8.515189528465271
+INFO:__main__:simulation (neuroGPU) runtimes: [ 6.8732276   7.89993048  7.94348431  7.9831934   8.03641009  8.50062323
+ 10.39496279 10.48968434]
+INFO:__main__:evaluation took: [16.020559310913086]
+INFO:__main__:everything took: 26.756194353103638
+INFO:__main__:gen size : 500
+INFO:__main__:evaluation times: [16.020559310913086]
+INFO:__main__:simulation times: [ 6.8732276   7.89993048  7.94348431  7.9831934   8.03641009  8.50062323
+ 10.39496279 10.48968434]
+INFO:__main__:simulation ends: [1.63891431e+09 1.63891431e+09 1.63891431e+09 1.63891431e+09
+ 1.63891431e+09 1.63891431e+09 1.63891432e+09 1.63891432e+09]
+INFO:__main__:simulation starts: [1.63891431e+09 1.63891431e+09 1.63891431e+09 1.63891431e+09
+ 1.63891431e+09 1.63891431e+09 1.63891431e+09 1.63891431e+09]
+INFO:__main__:whole gen took: 27.453254222869873
+INFO:__main__:lap time: 1638914332.491467
+INFO:__main__:completed trial : 14

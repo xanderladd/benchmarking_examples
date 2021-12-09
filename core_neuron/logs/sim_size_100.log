@@ -1,0 +1,273 @@
+INFO:root:************ launched 80 PIDS at 1638916897.208611 ************
+INFO:root:************ finished 80 PIDS at 1638916900.809042 ************
+INFO:__main__:average simulation (coreNeuron) runtime: 31.28363823890686
+INFO:__main__:simulation (coreNeuron) runtimes: [31.28363824]
+INFO:__main__:evaluation took: 3.649595260620117
+INFO:__main__:everything took: 34.963846921920776
+INFO:__main__:gen size : 100
+INFO:__main__:evaluation times: 3.649595260620117
+INFO:__main__:simulation times: [31.28363824]
+INFO:__main__:simulation ends: [1.6389169e+09]
+INFO:__main__:simulation starts: [1.63891687e+09]
+INFO:__main__:whole gen took: 35.89545750617981
+INFO:__main__:lap time: 1638916901.7420626
+INFO:__main__:completed trial : 0
+INFO:root:************ launched 80 PIDS at 1638916912.8349998 ************
+INFO:root:************ finished 80 PIDS at 1638916915.3141024 ************
+INFO:__main__:average simulation (coreNeuron) runtime: 21.14993464946747
+INFO:__main__:simulation (coreNeuron) runtimes: [31.28363824 11.01623106]
+INFO:__main__:evaluation took: 2.520721673965454
+INFO:__main__:everything took: 13.57338809967041
+INFO:__main__:gen size : 100
+INFO:__main__:evaluation times: 2.520721673965454
+INFO:__main__:simulation times: [31.28363824 11.01623106]
+INFO:__main__:simulation ends: [1.63891690e+09 1.63891691e+09]
+INFO:__main__:simulation starts: [1.63891687e+09 1.63891690e+09]
+INFO:__main__:whole gen took: 14.769789218902588
+INFO:__main__:lap time: 1638916916.511942
+INFO:__main__:completed trial : 1
+INFO:root:************ launched 80 PIDS at 1638916927.5891685 ************
+INFO:root:************ finished 80 PIDS at 1638916930.8782043 ************
+INFO:__main__:average simulation (coreNeuron) runtime: 17.765859206517536
+INFO:__main__:simulation (coreNeuron) runtimes: [31.28363824 11.01623106 10.99770832]
+INFO:__main__:evaluation took: 3.332711696624756
+INFO:__main__:everything took: 14.3676118850708
+INFO:__main__:gen size : 100
+INFO:__main__:evaluation times: 3.332711696624756
+INFO:__main__:simulation times: [31.28363824 11.01623106 10.99770832]
+INFO:__main__:simulation ends: [1.63891690e+09 1.63891691e+09 1.63891693e+09]
+INFO:__main__:simulation starts: [1.63891687e+09 1.63891690e+09 1.63891692e+09]
+INFO:__main__:whole gen took: 14.540306806564331
+INFO:__main__:lap time: 1638916931.0523417
+INFO:__main__:completed trial : 2
+INFO:root:************ launched 80 PIDS at 1638916942.1092632 ************
+INFO:root:************ finished 80 PIDS at 1638916944.7986753 ************
+INFO:__main__:average simulation (coreNeuron) runtime: 16.06948333978653
+INFO:__main__:simulation (coreNeuron) runtimes: [31.28363824 11.01623106 10.99770832 10.98035574]
+INFO:__main__:evaluation took: 2.730677604675293
+INFO:__main__:everything took: 13.74795389175415
+INFO:__main__:gen size : 100
+INFO:__main__:evaluation times: 2.730677604675293
+INFO:__main__:simulation times: [31.28363824 11.01623106 10.99770832 10.98035574]
+INFO:__main__:simulation ends: [1.63891690e+09 1.63891691e+09 1.63891693e+09 1.63891694e+09]
+INFO:__main__:simulation starts: [1.63891687e+09 1.63891690e+09 1.63891692e+09 1.63891693e+09]
+INFO:__main__:whole gen took: 14.654592275619507
+INFO:__main__:lap time: 1638916945.7070262
+INFO:__main__:completed trial : 3
+INFO:root:************ launched 80 PIDS at 1638916956.793241 ************
+INFO:root:************ finished 80 PIDS at 1638916959.4894536 ************
+INFO:__main__:average simulation (coreNeuron) runtime: 15.05693073272705
+INFO:__main__:simulation (coreNeuron) runtimes: [31.28363824 11.01623106 10.99770832 10.98035574 11.0067203 ]
+INFO:__main__:evaluation took: 2.740259885787964
+INFO:__main__:everything took: 13.783782482147217
+INFO:__main__:gen size : 100
+INFO:__main__:evaluation times: 2.740259885787964
+INFO:__main__:simulation times: [31.28363824 11.01623106 10.99770832 10.98035574 11.0067203 ]
+INFO:__main__:simulation ends: [1.63891690e+09 1.63891691e+09 1.63891693e+09 1.63891694e+09
+ 1.63891696e+09]
+INFO:__main__:simulation starts: [1.63891687e+09 1.63891690e+09 1.63891692e+09 1.63891693e+09
+ 1.63891695e+09]
+INFO:__main__:whole gen took: 15.266846895217896
+INFO:__main__:lap time: 1638916960.973995
+INFO:__main__:completed trial : 4
+INFO:root:************ launched 80 PIDS at 1638916972.0543 ************
+INFO:root:************ finished 80 PIDS at 1638916974.7467208 ************
+INFO:__main__:average simulation (coreNeuron) runtime: 14.381131291389465
+INFO:__main__:simulation (coreNeuron) runtimes: [31.28363824 11.01623106 10.99770832 10.98035574 11.0067203  11.00213408]
+INFO:__main__:evaluation took: 2.7349658012390137
+INFO:__main__:everything took: 13.77412462234497
+INFO:__main__:gen size : 100
+INFO:__main__:evaluation times: 2.7349658012390137
+INFO:__main__:simulation times: [31.28363824 11.01623106 10.99770832 10.98035574 11.0067203  11.00213408]
+INFO:__main__:simulation ends: [1.63891690e+09 1.63891691e+09 1.63891693e+09 1.63891694e+09
+ 1.63891696e+09 1.63891697e+09]
+INFO:__main__:simulation starts: [1.63891687e+09 1.63891690e+09 1.63891692e+09 1.63891693e+09
+ 1.63891695e+09 1.63891696e+09]
+INFO:__main__:whole gen took: 14.750189542770386
+INFO:__main__:lap time: 1638916975.724289
+INFO:__main__:completed trial : 5
+INFO:root:************ launched 80 PIDS at 1638916986.7801514 ************
+INFO:root:************ finished 80 PIDS at 1638916989.6639633 ************
+INFO:__main__:average simulation (coreNeuron) runtime: 13.895173515592303
+INFO:__main__:simulation (coreNeuron) runtimes: [31.28363824 11.01623106 10.99770832 10.98035574 11.0067203  11.00213408
+ 10.97942686]
+INFO:__main__:evaluation took: 2.9249989986419678
+INFO:__main__:everything took: 13.94107699394226
+INFO:__main__:gen size : 100
+INFO:__main__:evaluation times: 2.9249989986419678
+INFO:__main__:simulation times: [31.28363824 11.01623106 10.99770832 10.98035574 11.0067203  11.00213408
+ 10.97942686]
+INFO:__main__:simulation ends: [1.63891690e+09 1.63891691e+09 1.63891693e+09 1.63891694e+09
+ 1.63891696e+09 1.63891697e+09 1.63891699e+09]
+INFO:__main__:simulation starts: [1.63891687e+09 1.63891690e+09 1.63891692e+09 1.63891693e+09
+ 1.63891695e+09 1.63891696e+09 1.63891698e+09]
+INFO:__main__:whole gen took: 16.64665722846985
+INFO:__main__:lap time: 1638916992.3710403
+INFO:__main__:completed trial : 6
+INFO:root:************ launched 80 PIDS at 1638917003.455573 ************
+INFO:root:************ finished 80 PIDS at 1638917006.2659054 ************
+INFO:__main__:average simulation (coreNeuron) runtime: 13.534010171890259
+INFO:__main__:simulation (coreNeuron) runtimes: [31.28363824 11.01623106 10.99770832 10.98035574 11.0067203  11.00213408
+ 10.97942686 11.00586677]
+INFO:__main__:evaluation took: 2.854081392288208
+INFO:__main__:everything took: 13.896472454071045
+INFO:__main__:gen size : 100
+INFO:__main__:evaluation times: 2.854081392288208
+INFO:__main__:simulation times: [31.28363824 11.01623106 10.99770832 10.98035574 11.0067203  11.00213408
+ 10.97942686 11.00586677]
+INFO:__main__:simulation ends: [1.63891690e+09 1.63891691e+09 1.63891693e+09 1.63891694e+09
+ 1.63891696e+09 1.63891697e+09 1.63891699e+09 1.63891700e+09]
+INFO:__main__:simulation starts: [1.63891687e+09 1.63891690e+09 1.63891692e+09 1.63891693e+09
+ 1.63891695e+09 1.63891696e+09 1.63891698e+09 1.63891699e+09]
+INFO:__main__:whole gen took: 14.66430401802063
+INFO:__main__:lap time: 1638917007.0354369
+INFO:__main__:completed trial : 7
+INFO:root:************ launched 80 PIDS at 1638917018.118944 ************
+INFO:root:************ finished 80 PIDS at 1638917020.603671 ************
+INFO:__main__:average simulation (coreNeuron) runtime: 13.253169854482016
+INFO:__main__:simulation (coreNeuron) runtimes: [31.28363824 11.01623106 10.99770832 10.98035574 11.0067203  11.00213408
+ 10.97942686 11.00586677 11.00644732]
+INFO:__main__:evaluation took: 2.52699613571167
+INFO:__main__:everything took: 13.569724321365356
+INFO:__main__:gen size : 100
+INFO:__main__:evaluation times: 2.52699613571167
+INFO:__main__:simulation times: [31.28363824 11.01623106 10.99770832 10.98035574 11.0067203  11.00213408
+ 10.97942686 11.00586677]
+INFO:__main__:simulation ends: [1.63891690e+09 1.63891691e+09 1.63891693e+09 1.63891694e+09
+ 1.63891696e+09 1.63891697e+09 1.63891699e+09 1.63891700e+09
+ 1.63891702e+09]
+INFO:__main__:simulation starts: [1.63891687e+09 1.63891690e+09 1.63891692e+09 1.63891693e+09
+ 1.63891695e+09 1.63891696e+09 1.63891698e+09 1.63891699e+09
+ 1.63891701e+09]
+INFO:__main__:whole gen took: 14.569031238555908
+INFO:__main__:lap time: 1638917021.6045628
+INFO:__main__:completed trial : 8
+INFO:root:************ launched 80 PIDS at 1638917032.723266 ************
+INFO:root:************ finished 80 PIDS at 1638917035.4489164 ************
+INFO:__main__:average simulation (coreNeuron) runtime: 13.031266045570373
+INFO:__main__:simulation (coreNeuron) runtimes: [31.28363824 11.01623106 10.99770832 10.98035574 11.0067203  11.00213408
+ 10.97942686 11.00586677 11.00644732 11.03413177]
+INFO:__main__:evaluation took: 2.770211935043335
+INFO:__main__:everything took: 13.845676898956299
+INFO:__main__:gen size : 100
+INFO:__main__:evaluation times: 2.770211935043335
+INFO:__main__:simulation times: [31.28363824 11.01623106 10.99770832 10.98035574 11.0067203  11.00213408
+ 10.97942686 11.00586677]
+INFO:__main__:simulation ends: [1.63891690e+09 1.63891691e+09 1.63891693e+09 1.63891694e+09
+ 1.63891696e+09 1.63891697e+09 1.63891699e+09 1.63891700e+09
+ 1.63891702e+09 1.63891703e+09]
+INFO:__main__:simulation starts: [1.63891687e+09 1.63891690e+09 1.63891692e+09 1.63891693e+09
+ 1.63891695e+09 1.63891696e+09 1.63891698e+09 1.63891699e+09
+ 1.63891701e+09 1.63891702e+09]
+INFO:__main__:whole gen took: 15.178194761276245
+INFO:__main__:lap time: 1638917036.7828526
+INFO:__main__:completed trial : 9
+INFO:root:************ launched 80 PIDS at 1638917047.8627176 ************
+INFO:root:************ finished 80 PIDS at 1638917051.456559 ************
+INFO:__main__:average simulation (coreNeuron) runtime: 12.846825101158835
+INFO:__main__:simulation (coreNeuron) runtimes: [31.28363824 11.01623106 10.99770832 10.98035574 11.0067203  11.00213408
+ 10.97942686 11.00586677 11.00644732 11.03413177 11.00241566]
+INFO:__main__:evaluation took: 3.6363441944122314
+INFO:__main__:everything took: 14.675081491470337
+INFO:__main__:gen size : 100
+INFO:__main__:evaluation times: 3.6363441944122314
+INFO:__main__:simulation times: [31.28363824 11.01623106 10.99770832 10.98035574 11.0067203  11.00213408
+ 10.97942686 11.00586677]
+INFO:__main__:simulation ends: [1.63891690e+09 1.63891691e+09 1.63891693e+09 1.63891694e+09
+ 1.63891696e+09 1.63891697e+09 1.63891699e+09 1.63891700e+09
+ 1.63891702e+09 1.63891703e+09 1.63891705e+09]
+INFO:__main__:simulation starts: [1.63891687e+09 1.63891690e+09 1.63891692e+09 1.63891693e+09
+ 1.63891695e+09 1.63891696e+09 1.63891698e+09 1.63891699e+09
+ 1.63891701e+09 1.63891702e+09 1.63891704e+09]
+INFO:__main__:whole gen took: 14.679841756820679
+INFO:__main__:lap time: 1638917051.4627888
+INFO:__main__:completed trial : 10
+INFO:root:************ launched 80 PIDS at 1638917062.523465 ************
+INFO:root:************ finished 80 PIDS at 1638917065.3012912 ************
+INFO:__main__:average simulation (coreNeuron) runtime: 12.691785216331482
+INFO:__main__:simulation (coreNeuron) runtimes: [31.28363824 11.01623106 10.99770832 10.98035574 11.0067203  11.00213408
+ 10.97942686 11.00586677 11.00644732 11.03413177 11.00241566 10.98634648]
+INFO:__main__:evaluation took: 2.8175785541534424
+INFO:__main__:everything took: 13.839877605438232
+INFO:__main__:gen size : 100
+INFO:__main__:evaluation times: 2.8175785541534424
+INFO:__main__:simulation times: [31.28363824 11.01623106 10.99770832 10.98035574 11.0067203  11.00213408
+ 10.97942686 11.00586677]
+INFO:__main__:simulation ends: [1.63891690e+09 1.63891691e+09 1.63891693e+09 1.63891694e+09
+ 1.63891696e+09 1.63891697e+09 1.63891699e+09 1.63891700e+09
+ 1.63891702e+09 1.63891703e+09 1.63891705e+09 1.63891706e+09]
+INFO:__main__:simulation starts: [1.63891687e+09 1.63891690e+09 1.63891692e+09 1.63891693e+09
+ 1.63891695e+09 1.63891696e+09 1.63891698e+09 1.63891699e+09
+ 1.63891701e+09 1.63891702e+09 1.63891704e+09 1.63891705e+09]
+INFO:__main__:whole gen took: 15.566000938415527
+INFO:__main__:lap time: 1638917067.0288846
+INFO:__main__:completed trial : 11
+INFO:root:************ launched 80 PIDS at 1638917078.0834353 ************
+INFO:root:************ finished 80 PIDS at 1638917081.566903 ************
+INFO:__main__:average simulation (coreNeuron) runtime: 12.559982923360971
+INFO:__main__:simulation (coreNeuron) runtimes: [31.28363824 11.01623106 10.99770832 10.98035574 11.0067203  11.00213408
+ 10.97942686 11.00586677 11.00644732 11.03413177 11.00241566 10.98634648
+ 10.97835541]
+INFO:__main__:evaluation took: 3.52528715133667
+INFO:__main__:everything took: 14.539638042449951
+INFO:__main__:gen size : 100
+INFO:__main__:evaluation times: 3.52528715133667
+INFO:__main__:simulation times: [31.28363824 11.01623106 10.99770832 10.98035574 11.0067203  11.00213408
+ 10.97942686 11.00586677]
+INFO:__main__:simulation ends: [1.63891690e+09 1.63891691e+09 1.63891693e+09 1.63891694e+09
+ 1.63891696e+09 1.63891697e+09 1.63891699e+09 1.63891700e+09
+ 1.63891702e+09 1.63891703e+09 1.63891705e+09 1.63891706e+09
+ 1.63891708e+09]
+INFO:__main__:simulation starts: [1.63891687e+09 1.63891690e+09 1.63891692e+09 1.63891693e+09
+ 1.63891695e+09 1.63891696e+09 1.63891698e+09 1.63891699e+09
+ 1.63891701e+09 1.63891702e+09 1.63891704e+09 1.63891705e+09
+ 1.63891707e+09]
+INFO:__main__:whole gen took: 15.563151359558105
+INFO:__main__:lap time: 1638917082.592132
+INFO:__main__:completed trial : 12
+INFO:root:************ launched 80 PIDS at 1638917093.6859872 ************
+INFO:root:************ finished 80 PIDS at 1638917097.3823318 ************
+INFO:__main__:average simulation (coreNeuron) runtime: 12.449696285384041
+INFO:__main__:simulation (coreNeuron) runtimes: [31.28363824 11.01623106 10.99770832 10.98035574 11.0067203  11.00213408
+ 10.97942686 11.00586677 11.00644732 11.03413177 11.00241566 10.98634648
+ 10.97835541 11.01596999]
+INFO:__main__:evaluation took: 3.7397279739379883
+INFO:__main__:everything took: 14.791615009307861
+INFO:__main__:gen size : 100
+INFO:__main__:evaluation times: 3.7397279739379883
+INFO:__main__:simulation times: [31.28363824 11.01623106 10.99770832 10.98035574 11.0067203  11.00213408
+ 10.97942686 11.00586677]
+INFO:__main__:simulation ends: [1.63891690e+09 1.63891691e+09 1.63891693e+09 1.63891694e+09
+ 1.63891696e+09 1.63891697e+09 1.63891699e+09 1.63891700e+09
+ 1.63891702e+09 1.63891703e+09 1.63891705e+09 1.63891706e+09
+ 1.63891708e+09 1.63891709e+09]
+INFO:__main__:simulation starts: [1.63891687e+09 1.63891690e+09 1.63891692e+09 1.63891693e+09
+ 1.63891695e+09 1.63891696e+09 1.63891698e+09 1.63891699e+09
+ 1.63891701e+09 1.63891702e+09 1.63891704e+09 1.63891705e+09
+ 1.63891707e+09 1.63891708e+09]
+INFO:__main__:whole gen took: 15.254552602767944
+INFO:__main__:lap time: 1638917097.8467793
+INFO:__main__:completed trial : 13
+INFO:root:************ launched 80 PIDS at 1638917108.9809453 ************
+INFO:root:************ finished 80 PIDS at 1638917111.9010577 ************
+INFO:__main__:average simulation (coreNeuron) runtime: 12.356777540842693
+INFO:__main__:simulation (coreNeuron) runtimes: [31.28363824 11.01623106 10.99770832 10.98035574 11.0067203  11.00213408
+ 10.97942686 11.00586677 11.00644732 11.03413177 11.00241566 10.98634648
+ 10.97835541 11.01596999 11.05591512]
+INFO:__main__:evaluation took: 2.963775157928467
+INFO:__main__:everything took: 14.05561089515686
+INFO:__main__:gen size : 100
+INFO:__main__:evaluation times: 2.963775157928467
+INFO:__main__:simulation times: [31.28363824 11.01623106 10.99770832 10.98035574 11.0067203  11.00213408
+ 10.97942686 11.00586677]
+INFO:__main__:simulation ends: [1.63891690e+09 1.63891691e+09 1.63891693e+09 1.63891694e+09
+ 1.63891696e+09 1.63891697e+09 1.63891699e+09 1.63891700e+09
+ 1.63891702e+09 1.63891703e+09 1.63891705e+09 1.63891706e+09
+ 1.63891708e+09 1.63891709e+09 1.63891711e+09]
+INFO:__main__:simulation starts: [1.63891687e+09 1.63891690e+09 1.63891692e+09 1.63891693e+09
+ 1.63891695e+09 1.63891696e+09 1.63891698e+09 1.63891699e+09
+ 1.63891701e+09 1.63891702e+09 1.63891704e+09 1.63891705e+09
+ 1.63891707e+09 1.63891708e+09 1.63891710e+09]
+INFO:__main__:whole gen took: 16.541523218154907
+INFO:__main__:lap time: 1638917114.388397
+INFO:__main__:completed trial : 14
