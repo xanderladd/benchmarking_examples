@@ -1,1 +1,0 @@
-salloc -C gpu -N 1 -t 120 --gres=gpu:8 -c 10 -A #### --ntasks-per-node 8
