@@ -1,0 +1,189 @@
+absolute start : 1636695976.1325352 from rank0
+gen	nevals	avg       	std    	min     	max    
+1  	1501  	0.02194   	1.01763	-3.64056	3.92621
+2  	1162  	0.00888054	gen	nevals	avg       	stdWrote checkpoint to ckpt
+3  	1194  	-0.624913 	0.968342	-3.64056	3.68062
+Wrote checkpoint to ckpt
+4  	1214  	-0.921783 	1.09447 	-3.64056	3.72592
+Wrote checkpoint to ckpt
+5  	1172  	-1.17057  	1.22323 	-3.64056	3.81265
+Wrote checkpoint to ckpt
+6  	1175  	-1.39241  	1.34254 	-3.64056	3.078  
+Wrote checkpoint to ckpt
+7  	1161  	-1.58635  	1.44882 	-3.74727	3.06565
+Wrote checkpoint to ckpt
+8  	1163  	-1.76535  	1.59371 	-3.74727	3.71565
+Wrote checkpoint to ckpt
+9  	1201  	-1.89743  	1.69989 	-4.432  	3.33244
+Wrote checkpoint to ckpt
+10 	1190  	-2.02025  	1.80109 	-4.432  	3.23173
+Wrote checkpoint to ckpt
+11 	1162  	-2.16132  	1.83471 	-4.432  	3.19876
+Wrote checkpoint to ckpt
+12 	1160  	-2.1716   	1.90332 	-4.432  	3.78982
+Wrote checkpoint to ckpt
+13 	1188  	-2.18077  	1.92533 	-4.432  	3.14643
+Wrote checkpoint to ckpt
+14 	1190  	-2.22858  	1.94774 	-4.432  	3.22091
+Wrote checkpoint to ckpt
+15 	1152  	-2.35246  	1.9988  	-4.432  	3.07074
+Wrote checkpoint to ckpt
+16 	1212  	-2.37705  	2.13062 	-4.432  	2.85568
+Wrote checkpoint to ckpt
+17 	1162  	-2.5686   	2.16493 	-4.432  	3.98999
+Wrote checkpoint to ckpt
+18 	1189  	-2.61257  	2.23784 	-4.432  	3.14981
+Wrote checkpoint to ckpt
+19 	1180  	-2.63715  	2.25099 	-4.432  	3.11043
+Wrote checkpoint to ckpt
+20 	1183  	-2.64751  	2.24026 	-4.432  	2.71783
+Wrote checkpoint to ckpt
+21 	1195  	-2.61023  	2.26623 	-4.432  	3.18413
+Wrote checkpoint to ckpt
+22 	1162  	-2.67778  	2.22936 	-4.432  	3.21363
+Wrote checkpoint to ckpt
+23 	1193  	-2.63513  	2.25353 	-4.432  	2.94823
+Wrote checkpoint to ckpt
+24 	1212  	-2.60217  	2.26657 	-4.432  	3.33638
+Wrote checkpoint to ckpt
+25 	1181  	-2.6255   	2.26011 	-4.432  	2.81093
+Wrote checkpoint to ckpt
+26 	1208  	-2.57817  	2.27778 	-4.432  	2.98495
+Wrote checkpoint to ckpt
+27 	1192  	-2.62845  	2.23919 	-4.432  	3.14308
+Wrote checkpoint to ckpt
+28 	1164  	-2.64373  	2.25844 	-4.432  	3.4327 
+Wrote checkpoint to ckpt
+29 	1200  	-2.59193  	2.27093 	-4.432  	4.46083
+Wrote checkpoint to ckpt
+30 	1208  	-2.5746   	2.28096 	-4.432  	3.64618
+Wrote checkpoint to ckpt
+31 	1209  	-2.57324  	2.26001 	-4.432  	3.51553
+Wrote checkpoint to ckpt
+32 	1177  	-2.62557  	2.23535 	-4.432  	3.16437
+Wrote checkpoint to ckpt
+33 	1223  	-2.55895  	2.28808 	-5.44965	3.3391 
+Wrote checkpoint to ckpt
+34 	1211  	-2.58457  	2.26038 	-4.432  	2.94048
+Wrote checkpoint to ckpt
+35 	1186  	-2.62206  	2.24777 	-4.432  	3.25311
+Wrote checkpoint to ckpt
+36 	1189  	-2.60811  	2.25858 	-4.432  	3.14654
+Wrote checkpoint to ckpt
+37 	1183  	-2.60339  	2.27364 	-4.432  	3.13582
+Wrote checkpoint to ckpt
+38 	1202  	-2.61184  	2.26116 	-4.432  	3.41424
+Wrote checkpoint to ckpt
+39 	1174  	-2.66703  	2.22056 	-4.432  	3.62522
+Wrote checkpoint to ckpt
+40 	1176  	-2.62707  	2.25843 	-4.432  	3.14665
+Wrote checkpoint to ckpt
+41 	1198  	-2.59435  	2.25944 	-4.432  	3.83297
+Wrote checkpoint to ckpt
+42 	1221  	-2.55836  	2.28217 	-4.432  	3.48601
+Wrote checkpoint to ckpt
+43 	1164  	-2.63589  	2.23996 	-4.432  	3.73187
+Wrote checkpoint to ckpt
+44 	1162  	-2.65299  	2.24984 	-4.432  	2.85849
+Wrote checkpoint to ckpt
+45 	1200  	-2.58901  	2.26661 	-4.432  	3.34979
+Wrote checkpoint to ckpt
+46 	1195  	-2.60101  	2.25746 	-4.432  	3.1833 
+Wrote checkpoint to ckpt
+47 	1199  	-2.59835  	2.26395 	-4.432  	3.16904
+Wrote checkpoint to ckpt
+48 	1192  	-2.64406  	2.22314 	-4.432  	3.10406
+Wrote checkpoint to ckpt
+49 	1190  	-2.62801  	2.24459 	-4.432  	3.19616
+Wrote checkpoint to ckpt
+50 	1183  	-2.64497  	2.23523 	-4.432  	3.48215
+Wrote checkpoint to ckpt
+Run stopped because of stopping criteria: Max ngen
+absolute end : 1636696054.745461
+93 	-4.432  	4.46083
+Wrote checkpoint to ckpt
+gen start: 1636696010.5924265
+gen end: 1636696010.7277043
+30 	1208  	-2.5746   	2.28096 	-4.432  	3.64618
+Wrote checkpoint to ckpt
+gen start: 1636696012.3245444
+gen end: 1636696012.5025918
+31 	1209  	-2.57324  	2.26001 	-4.432  	3.51553
+Wrote checkpoint to ckpt
+gen start: 1636696014.3070602
+gen end: 1636696014.3125277
+32 	1177  	-2.62557  	2.23535 	-4.432  	3.16437
+Wrote checkpoint to ckpt
+gen start: 1636696016.050287
+gen end: 1636696016.1123898
+33 	1223  	-2.55895  	2.28808 	-5.44965	3.3391 
+Wrote checkpoint to ckpt
+gen start: 1636696017.918775
+gen end: 1636696018.0536964
+34 	1211  	-2.58457  	2.26038 	-4.432  	2.94048
+Wrote checkpoint to ckpt
+gen start: 1636696019.7782788
+gen end: 1636696019.8961315
+35 	1186  	-2.62206  	2.24777 	-4.432  	3.25311
+Wrote checkpoint to ckpt
+gen start: 1636696021.7875926
+gen end: 1636696021.865069
+36 	1189  	-2.60811  	2.25858 	-4.432  	3.14654
+Wrote checkpoint to ckpt
+gen start: 1636696023.795393
+gen end: 1636696023.8009598
+37 	1183  	-2.60339  	2.27364 	-4.432  	3.13582
+Wrote checkpoint to ckpt
+gen start: 1636696025.6533678
+gen end: 1636696025.7201946
+38 	1202  	-2.61184  	2.26116 	-4.432  	3.41424
+Wrote checkpoint to ckpt
+gen start: 1636696027.722005
+gen end: 1636696027.7273824
+39 	1174  	-2.66703  	2.22056 	-4.432  	3.62522
+Wrote checkpoint to ckpt
+gen start: 1636696029.5882533
+gen end: 1636696029.7755768
+40 	1176  	-2.62707  	2.25843 	-4.432  	3.14665
+Wrote checkpoint to ckpt
+gen start: 1636696031.8284926
+gen end: 1636696031.9702382
+41 	1198  	-2.59435  	2.25944 	-4.432  	3.83297
+Wrote checkpoint to ckpt
+gen start: 1636696034.080743
+gen end: 1636696034.0863287
+42 	1221  	-2.55836  	2.28217 	-4.432  	3.48601
+Wrote checkpoint to ckpt
+gen start: 1636696036.0307262
+gen end: 1636696036.1873202
+43 	1164  	-2.63589  	2.23996 	-4.432  	3.73187
+Wrote checkpoint to ckpt
+gen start: 1636696038.265477
+gen end: 1636696038.2712047
+44 	1162  	-2.65299  	2.24984 	-4.432  	2.85849
+Wrote checkpoint to ckpt
+gen start: 1636696040.2388606
+gen end: 1636696040.4804313
+45 	1200  	-2.58901  	2.26661 	-4.432  	3.34979
+Wrote checkpoint to ckpt
+gen start: 1636696042.5913298
+gen end: 1636696042.6684082
+46 	1195  	-2.60101  	2.25746 	-4.432  	3.1833 
+Wrote checkpoint to ckpt
+gen start: 1636696044.7238648
+gen end: 1636696044.9776485
+47 	1199  	-2.59835  	2.26395 	-4.432  	3.16904
+Wrote checkpoint to ckpt
+gen start: 1636696047.2025077
+gen end: 1636696047.248632
+48 	1192  	-2.64406  	2.22314 	-4.432  	3.10406
+Wrote checkpoint to ckpt
+gen start: 1636696049.6787968
+gen end: 1636696049.6833959
+49 	1190  	-2.62801  	2.24459 	-4.432  	3.19616
+Wrote checkpoint to ckpt
+gen start: 1636696052.0913236
+gen end: 1636696052.0970316
+50 	1183  	-2.64497  	2.23523 	-4.432  	3.48215
+Wrote checkpoint to ckpt
+Run stopped because of stopping criteria: Max ngen

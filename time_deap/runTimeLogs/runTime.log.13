@@ -1,0 +1,46 @@
+absolute start : 1636695230.45788 from rank1
+gen	nevals	avg        	std     	min     	max    
+1  	3001  	-0.0152755 	0.993986	-3.15872	3.49007
+2  	2382  	-0.00283gen	nevals	avg        	std    Wrote checkpoint to ckpt
+3  	2384  	-0.634884  	0.963323	-3.60819	3.64887
+Wrote checkpoint to ckpt
+4  	2365  	-0.957502  	1.10304 	-3.44427	3.79121
+Wrote checkpoint to ckpt
+5  	2378  	-1.18892   	1.22628 	-3.49457	3.91879
+Wrote checkpoint to ckpt
+6  	2354  	-1.39979   	1.34051 	-3.49457	3.70191
+Wrote checkpoint to ckpt
+7  	2373  	-1.56575   	1.44287 	-3.50586	3.14576
+Wrote checkpoint to ckpt
+8  	2400  	-1.68549   	1.56775 	-3.50586	3.94538
+Wrote checkpoint to ckpt
+9  	2411  	-1.78451   	1.65241 	-3.756  	4.43702
+Wrote checkpoint to ckpt
+10 	2377  	-1.90688   	1.67178 	-3.756  	3.2049 
+Wrote checkpoint to ckpt
+11 	2397  	-1.95062   	1.7326  	-4.02309	2.95917
+Wrote checkpoint to ckpt
+12 	2404  	-1.97796   	1.78788 	-4.02309	3.90561
+Wrote checkpoint to ckpt
+Run stopped because of stopping criteria: Max ngen
+absolute end : 1636695260.645664
+763053
+8  	2400  	-1.68549   	1.56775 	-3.50586	3.94538
+Wrote checkpoint to ckpt
+gen start: 1636695248.9730513
+gen end: 1636695248.9839866
+9  	2411  	-1.78451   	1.65241 	-3.756  	4.43702
+Wrote checkpoint to ckpt
+gen start: 1636695251.7047327
+gen end: 1636695251.8278027
+10 	2377  	-1.90688   	1.67178 	-3.756  	3.2049 
+Wrote checkpoint to ckpt
+gen start: 1636695254.7696543
+gen end: 1636695254.780202
+11 	2397  	-1.95062   	1.7326  	-4.02309	2.95917
+Wrote checkpoint to ckpt
+gen start: 1636695257.7181058
+gen end: 1636695257.7285376
+12 	2404  	-1.97796   	1.78788 	-4.02309	3.90561
+Wrote checkpoint to ckpt
+Run stopped because of stopping criteria: Max ngen

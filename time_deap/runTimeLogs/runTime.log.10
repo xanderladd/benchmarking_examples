@@ -1,0 +1,189 @@
+absolute start : 1636696208.8499298 from rank1
+gen	nevals	avg       	std     	min     	max    
+1  	3001  	-0.055274 	0.971468	-3.87082	3.47458
+2  	2382  	-0.039gen	nevals	avg       	std     	Wrote checkpoint to ckpt
+3  	2378  	-0.637287 	0.974969	-4.42152	3.89258
+Wrote checkpoint to ckpt
+4  	2380  	-0.957943 	1.11248 	-3.92022	3.22281
+Wrote checkpoint to ckpt
+5  	2359  	-1.21424  	1.23249 	-3.8575 	3.5123 
+Wrote checkpoint to ckpt
+6  	2365  	-1.40746  	1.36495 	-3.8575 	3.06017
+Wrote checkpoint to ckpt
+7  	2388  	-1.57176  	1.4913  	-3.8575 	3.27118
+Wrote checkpoint to ckpt
+8  	2371  	-1.74332  	1.61955 	-3.8575 	3.09272
+Wrote checkpoint to ckpt
+9  	2358  	-1.91396  	1.7188  	-3.8575 	3.83068
+Wrote checkpoint to ckpt
+10 	2345  	-2.0628   	1.82265 	-3.8575 	3.19967
+Wrote checkpoint to ckpt
+11 	2366  	-2.15006  	1.92179 	-3.8575 	3.43972
+Wrote checkpoint to ckpt
+12 	2406  	-2.21442  	1.96974 	-3.8575 	3.0849 
+Wrote checkpoint to ckpt
+13 	2365  	-2.28428  	1.97342 	-3.8575 	3.15121
+Wrote checkpoint to ckpt
+14 	2477  	-2.21255  	1.99485 	-3.8575 	2.88124
+Wrote checkpoint to ckpt
+15 	2335  	-2.28178  	1.99321 	-3.8575 	4.3933 
+Wrote checkpoint to ckpt
+16 	2410  	-2.27835  	1.97651 	-3.8575 	4.03879
+Wrote checkpoint to ckpt
+17 	2384  	-2.25183  	2.00527 	-4.02251	3.17237
+Wrote checkpoint to ckpt
+18 	2362  	-2.28459  	1.98983 	-4.02251	3.37807
+Wrote checkpoint to ckpt
+19 	2406  	-2.26826  	1.99105 	-4.02251	4.01059
+Wrote checkpoint to ckpt
+20 	2351  	-2.31085  	1.97698 	-4.02251	3.61065
+Wrote checkpoint to ckpt
+21 	2376  	-2.29424  	1.98783 	-4.02251	3.53607
+Wrote checkpoint to ckpt
+22 	2356  	-2.31497  	1.96835 	-4.02251	3.16206
+Wrote checkpoint to ckpt
+23 	2365  	-2.29809  	2.00066 	-4.41467	4.63451
+Wrote checkpoint to ckpt
+24 	2358  	-2.32783  	1.99879 	-4.41467	3.47223
+Wrote checkpoint to ckpt
+25 	2352  	-2.34945  	2.01078 	-4.41467	3.58992
+Wrote checkpoint to ckpt
+26 	2397  	-2.33036  	2.05712 	-4.41467	3.16528
+Wrote checkpoint to ckpt
+27 	2367  	-2.38592  	2.05557 	-4.41467	3.22529
+Wrote checkpoint to ckpt
+28 	2337  	-2.406    	2.0542  	-4.41467	3.56003
+Wrote checkpoint to ckpt
+29 	2397  	-2.35639  	2.08273 	-4.41467	3.31562
+Wrote checkpoint to ckpt
+30 	2365  	-2.40652  	2.05086 	-4.41467	3.68404
+Wrote checkpoint to ckpt
+31 	2368  	-2.39833  	2.07294 	-4.41467	3.56655
+Wrote checkpoint to ckpt
+32 	2364  	-2.41169  	2.06794 	-4.41467	3.03157
+Wrote checkpoint to ckpt
+33 	2300  	-2.46166  	2.07388 	-4.41467	3.49599
+Wrote checkpoint to ckpt
+34 	2321  	-2.50781  	2.08923 	-4.41467	3.93141
+Wrote checkpoint to ckpt
+35 	2396  	-2.4919   	2.17205 	-4.41467	3.99371
+Wrote checkpoint to ckpt
+36 	2369  	-2.58137  	2.20915 	-4.41467	3.42163
+Wrote checkpoint to ckpt
+37 	2334  	-2.64645  	2.21756 	-4.41467	3.74002
+Wrote checkpoint to ckpt
+38 	2336  	-2.6313   	2.25598 	-4.41467	3.18436
+Wrote checkpoint to ckpt
+39 	2381  	-2.61833  	2.24985 	-4.41467	3.4247 
+Wrote checkpoint to ckpt
+40 	2348  	-2.63101  	2.24104 	-4.41467	3.54299
+Wrote checkpoint to ckpt
+41 	2375  	-2.60392  	2.25202 	-4.41467	3.00184
+Wrote checkpoint to ckpt
+42 	2333  	-2.62858  	2.23769 	-4.41467	3.36635
+Wrote checkpoint to ckpt
+43 	2379  	-2.62087  	2.23647 	-4.41467	3.72157
+Wrote checkpoint to ckpt
+44 	2315  	-2.66676  	2.22987 	-4.41467	3.40219
+Wrote checkpoint to ckpt
+45 	2371  	-2.60775  	2.26031 	-4.41467	3.17603
+Wrote checkpoint to ckpt
+46 	2393  	-2.58184  	2.26312 	-4.41467	3.64173
+Wrote checkpoint to ckpt
+47 	2367  	-2.6129   	2.24367 	-4.41467	3.81615
+Wrote checkpoint to ckpt
+48 	2384  	-2.60104  	2.2476  	-4.41467	3.74538
+Wrote checkpoint to ckpt
+49 	2413  	-2.58457  	2.25679 	-4.41467	3.19903
+Wrote checkpoint to ckpt
+50 	2380  	-2.60943  	2.2376  	-4.41467	3.46619
+Wrote checkpoint to ckpt
+
+gen start: 1636696332.3704574
+gen end: 1636696332.3809075
+29 	2397  	-2.35639  	2.08273 	-4.41467	3.31562
+Wrote checkpoint to ckpt
+gen start: 1636696336.4719982
+gen end: 1636696336.5573924
+30 	2365  	-2.40652  	2.05086 	-4.41467	3.68404
+Wrote checkpoint to ckpt
+gen start: 1636696340.9138143
+gen end: 1636696340.9243276
+31 	2368  	-2.39833  	2.07294 	-4.41467	3.56655
+Wrote checkpoint to ckpt
+gen start: 1636696345.1623409
+gen end: 1636696345.2688708
+32 	2364  	-2.41169  	2.06794 	-4.41467	3.03157
+Wrote checkpoint to ckpt
+gen start: 1636696349.939377
+gen end: 1636696349.9772189
+33 	2300  	-2.46166  	2.07388 	-4.41467	3.49599
+Wrote checkpoint to ckpt
+gen start: 1636696354.5727005
+gen end: 1636696354.582839
+34 	2321  	-2.50781  	2.08923 	-4.41467	3.93141
+Wrote checkpoint to ckpt
+gen start: 1636696359.2353544
+gen end: 1636696359.246097
+35 	2396  	-2.4919   	2.17205 	-4.41467	3.99371
+Wrote checkpoint to ckpt
+gen start: 1636696364.0297954
+gen end: 1636696364.0404572
+36 	2369  	-2.58137  	2.20915 	-4.41467	3.42163
+Wrote checkpoint to ckpt
+gen start: 1636696368.919425
+gen end: 1636696368.9299762
+37 	2334  	-2.64645  	2.21756 	-4.41467	3.74002
+Wrote checkpoint to ckpt
+gen start: 1636696373.6752176
+gen end: 1636696373.6852987
+38 	2336  	-2.6313   	2.25598 	-4.41467	3.18436
+Wrote checkpoint to ckpt
+gen start: 1636696378.703508
+gen end: 1636696378.713688
+39 	2381  	-2.61833  	2.24985 	-4.41467	3.4247 
+Wrote checkpoint to ckpt
+gen start: 1636696383.5269175
+gen end: 1636696383.7819047
+40 	2348  	-2.63101  	2.24104 	-4.41467	3.54299
+Wrote checkpoint to ckpt
+gen start: 1636696388.698686
+gen end: 1636696388.7090054
+41 	2375  	-2.60392  	2.25202 	-4.41467	3.00184
+Wrote checkpoint to ckpt
+gen start: 1636696393.5304759
+gen end: 1636696393.8121777
+42 	2333  	-2.62858  	2.23769 	-4.41467	3.36635
+Wrote checkpoint to ckpt
+gen start: 1636696399.2298565
+gen end: 1636696399.2410235
+43 	2379  	-2.62087  	2.23647 	-4.41467	3.72157
+Wrote checkpoint to ckpt
+gen start: 1636696404.6073642
+gen end: 1636696404.7116675
+44 	2315  	-2.66676  	2.22987 	-4.41467	3.40219
+Wrote checkpoint to ckpt
+gen start: 1636696409.8901815
+gen end: 1636696409.968401
+45 	2371  	-2.60775  	2.26031 	-4.41467	3.17603
+Wrote checkpoint to ckpt
+gen start: 1636696415.3336043
+gen end: 1636696415.6103432
+46 	2393  	-2.58184  	2.26312 	-4.41467	3.64173
+Wrote checkpoint to ckpt
+gen start: 1636696420.9707997
+gen end: 1636696420.9813712
+47 	2367  	-2.6129   	2.24367 	-4.41467	3.81615
+Wrote checkpoint to ckpt
+gen start: 1636696426.3220534
+gen end: 1636696426.4123254
+48 	2384  	-2.60104  	2.2476  	-4.41467	3.74538
+Wrote checkpoint to ckpt
+gen start: 1636696431.676713
+gen end: 1636696431.882026
+49 	2413  	-2.58457  	2.25679 	-4.41467	3.19903
+Wrote checkpoint to ckpt
+gen start: 1636696437.4511547
+gen end: 1636696437.4621785
+50 	2380  	-2.60943  	2.2376  	-4.41467	3.46619
+Wrote checkpoint to ckpt
